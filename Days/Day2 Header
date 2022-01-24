@@ -1,0 +1,5 @@
+Learning about different header poisionings .
+
+Urls 
+1.https://portswigger.net/web-security/host-header
+https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/17-Testing_for_Host_Header_Injection
